@@ -1,0 +1,99 @@
+
+nav { background: grey;
+    background-attachment:local;
+    padding: 0;
+    margin:0;  
+     text-align: center;
+     position: absolute;
+     width: 100%;
+     color: green;
+
+}
+
+nav > a {
+color:rgb(252, 248, 42);
+padding: 3%}
+
+
+#apereka-gesunod {
+    position: center;
+    height:175px;
+    width:215px;
+    margin-left: 20%
+}
+#apereka-gesunod img {
+    position:absolute;
+    left:0;
+    opacity: 1;
+    -webkit-transition: opacity 3s ease-in-out;
+    -moz-transition: opacity 3s ease-in-out;
+    -o-transition: opacity 3s ease-in-out;
+    -ms-transition: opacity 3s ease-in-out;    
+    transition: opacity 3s ease-in-out;
+   
+}
+
+#apereka-gesunod img.pekodam:hover {
+    opacity:0;
+  cursor: pointer;
+}
+
+
+
+h1 {color: #709f84
+    ;
+    text-align: center;
+}
+
+p {color:#004aff;
+text-align: center and justify;
+font-size: 25px;
+display: block;
+margin: 0 auto;
+width: 70%}
+.tip-p {color:#8eba45}
+.tip-o {text-align: left;
+font-size: 15px;
+color:#a18500}
+.tip-1 {color:#fcff00 ;
+padding: 1%;}
+.tip-2 {color:#fcff00 }
+.tip-3 {color:#fcff00;
+ padding: 1%}
+.tip-4 {color:#fcff00}
+.tip-5 {color:#fcff00}
+.tip-6 {color:#fcff00 ;
+font-size: 23px;
+}
+.tip-7 {color:#c4ca00 }
+.wio-1 {color: rgb(204, 240, 157)}
+h2 {margin-top: 25px;
+font-size: 30px;
+color:rgb(8,241, 210);
+text-align: center
+}
+body {background: url(../img/image-asset.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+font-family: sans-serif;
+background-attachment: fixed;}
+h3 { margin-top: 15px;
+    font-size: 30px;
+    color:rgb(8, 241, 210);
+    text-align: center
+}
+img {border-radius: 50px}
+b {color:#838b00}
+h4 { text-align: center;
+font-size:  30px;
+color:rgb(8, 241, 210)
+}
+.img-1 { border-radius: 0%;
+} 
+.img-2 {border-radius: 50%}
+h5 {color: rgb(8,241, 210);
+text-align: center;
+font-size: 30px
+}
+.p-1 {color:rgb(69, 224, 217)}
